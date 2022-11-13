@@ -2,7 +2,7 @@
 YummySpot is an Yandex.Music to Spotify playlist transfer app.
 
 ## Installation
-1. Fork the repo
+1. Clone the repo
 2. Install `spotipy` library via PIP.
 3. This step is not required, but recommended. Execute `python auth.py` and follow the instructions.
 4. Edit `config.py` and fill out sp_client_id, sp_client_secret, sp_redir_uri with Spotify Client Id, Spotify Client Secret, Spotify Redirect URI of an application. <br>
